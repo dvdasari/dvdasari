@@ -2,7 +2,7 @@
 #### A passionate full stack dev from the US
 
 
-<p>Currently I am working at <a href="https://roostify.com/">Roostify</a></p>
+<p>I work at <a href="https://roostify.com/">Roostify</a></p>
 
 <p align="left"> 
   <a href="https://twitter.com/dvdasari" target="blank">
